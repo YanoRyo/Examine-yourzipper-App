@@ -9,6 +9,12 @@
       padding: 10px;
     }
   }
+  .thanksPage {
+    text-align: center;
+    &_message {
+      font-size: 30px;
+    }
+  }
   .confirmPage {
     &_title {
       margin-bottom:50px;
